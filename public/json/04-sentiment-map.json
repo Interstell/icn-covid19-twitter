@@ -1,0 +1,1017 @@
+[
+  {
+    "country": "ARE",
+    "sentiment": "sad",
+    "share": 0.4592
+  },
+  {
+    "country": "ARE",
+    "sentiment": "neutral",
+    "share": 0.2347
+  },
+  {
+    "country": "ARE",
+    "sentiment": "happy",
+    "share": 0.1837
+  },
+  {
+    "country": "ARE",
+    "sentiment": "hate",
+    "share": 0.1224
+  },
+  {
+    "country": "ARG",
+    "sentiment": "neutral",
+    "share": 0.5
+  },
+  {
+    "country": "ARG",
+    "sentiment": "sad",
+    "share": 0.4333
+  },
+  {
+    "country": "ARG",
+    "sentiment": "happy",
+    "share": 0.0333
+  },
+  {
+    "country": "ARG",
+    "sentiment": "hate",
+    "share": 0.0333
+  },
+  {
+    "country": "AUS",
+    "sentiment": "sad",
+    "share": 0.6274
+  },
+  {
+    "country": "AUS",
+    "sentiment": "neutral",
+    "share": 0.1977
+  },
+  {
+    "country": "AUS",
+    "sentiment": "happy",
+    "share": 0.0989
+  },
+  {
+    "country": "AUS",
+    "sentiment": "hate",
+    "share": 0.0697
+  },
+  {
+    "country": "AUS",
+    "sentiment": "anger",
+    "share": 0.0063
+  },
+  {
+    "country": "BEL",
+    "sentiment": "sad",
+    "share": 0.6522
+  },
+  {
+    "country": "BEL",
+    "sentiment": "neutral",
+    "share": 0.1594
+  },
+  {
+    "country": "BEL",
+    "sentiment": "hate",
+    "share": 0.1014
+  },
+  {
+    "country": "BEL",
+    "sentiment": "happy",
+    "share": 0.087
+  },
+  {
+    "country": "BGD",
+    "sentiment": "sad",
+    "share": 0.5517
+  },
+  {
+    "country": "BGD",
+    "sentiment": "neutral",
+    "share": 0.3103
+  },
+  {
+    "country": "BGD",
+    "sentiment": "happy",
+    "share": 0.1034
+  },
+  {
+    "country": "BGD",
+    "sentiment": "hate",
+    "share": 0.0345
+  },
+  {
+    "country": "BRA",
+    "sentiment": "neutral",
+    "share": 0.4342
+  },
+  {
+    "country": "BRA",
+    "sentiment": "sad",
+    "share": 0.3816
+  },
+  {
+    "country": "BRA",
+    "sentiment": "happy",
+    "share": 0.1053
+  },
+  {
+    "country": "BRA",
+    "sentiment": "hate",
+    "share": 0.0789
+  },
+  {
+    "country": "BWA",
+    "sentiment": "sad",
+    "share": 0.5116
+  },
+  {
+    "country": "BWA",
+    "sentiment": "neutral",
+    "share": 0.3256
+  },
+  {
+    "country": "BWA",
+    "sentiment": "hate",
+    "share": 0.093
+  },
+  {
+    "country": "BWA",
+    "sentiment": "happy",
+    "share": 0.0698
+  },
+  {
+    "country": "CAN",
+    "sentiment": "sad",
+    "share": 0.6538
+  },
+  {
+    "country": "CAN",
+    "sentiment": "neutral",
+    "share": 0.1992
+  },
+  {
+    "country": "CAN",
+    "sentiment": "happy",
+    "share": 0.0911
+  },
+  {
+    "country": "CAN",
+    "sentiment": "hate",
+    "share": 0.0532
+  },
+  {
+    "country": "CAN",
+    "sentiment": "anger",
+    "share": 0.0026
+  },
+  {
+    "country": "CHE",
+    "sentiment": "sad",
+    "share": 0.6829
+  },
+  {
+    "country": "CHE",
+    "sentiment": "happy",
+    "share": 0.1463
+  },
+  {
+    "country": "CHE",
+    "sentiment": "neutral",
+    "share": 0.122
+  },
+  {
+    "country": "CHE",
+    "sentiment": "hate",
+    "share": 0.0488
+  },
+  {
+    "country": "COL",
+    "sentiment": "sad",
+    "share": 0.5946
+  },
+  {
+    "country": "COL",
+    "sentiment": "neutral",
+    "share": 0.3243
+  },
+  {
+    "country": "COL",
+    "sentiment": "hate",
+    "share": 0.0541
+  },
+  {
+    "country": "COL",
+    "sentiment": "anger",
+    "share": 0.027
+  },
+  {
+    "country": "DEU",
+    "sentiment": "sad",
+    "share": 0.5606
+  },
+  {
+    "country": "DEU",
+    "sentiment": "neutral",
+    "share": 0.2727
+  },
+  {
+    "country": "DEU",
+    "sentiment": "hate",
+    "share": 0.0985
+  },
+  {
+    "country": "DEU",
+    "sentiment": "happy",
+    "share": 0.0682
+  },
+  {
+    "country": "ESP",
+    "sentiment": "sad",
+    "share": 0.5519
+  },
+  {
+    "country": "ESP",
+    "sentiment": "neutral",
+    "share": 0.2857
+  },
+  {
+    "country": "ESP",
+    "sentiment": "happy",
+    "share": 0.1039
+  },
+  {
+    "country": "ESP",
+    "sentiment": "hate",
+    "share": 0.0455
+  },
+  {
+    "country": "ESP",
+    "sentiment": "anger",
+    "share": 0.013
+  },
+  {
+    "country": "FRA",
+    "sentiment": "sad",
+    "share": 0.5567
+  },
+  {
+    "country": "FRA",
+    "sentiment": "neutral",
+    "share": 0.2577
+  },
+  {
+    "country": "FRA",
+    "sentiment": "happy",
+    "share": 0.0928
+  },
+  {
+    "country": "FRA",
+    "sentiment": "hate",
+    "share": 0.0928
+  },
+  {
+    "country": "GBR",
+    "sentiment": "sad",
+    "share": 0.643
+  },
+  {
+    "country": "GBR",
+    "sentiment": "neutral",
+    "share": 0.1849
+  },
+  {
+    "country": "GBR",
+    "sentiment": "happy",
+    "share": 0.0984
+  },
+  {
+    "country": "GBR",
+    "sentiment": "hate",
+    "share": 0.0692
+  },
+  {
+    "country": "GBR",
+    "sentiment": "anger",
+    "share": 0.0046
+  },
+  {
+    "country": "GHA",
+    "sentiment": "sad",
+    "share": 0.5427
+  },
+  {
+    "country": "GHA",
+    "sentiment": "neutral",
+    "share": 0.2805
+  },
+  {
+    "country": "GHA",
+    "sentiment": "happy",
+    "share": 0.1159
+  },
+  {
+    "country": "GHA",
+    "sentiment": "hate",
+    "share": 0.0549
+  },
+  {
+    "country": "GHA",
+    "sentiment": "anger",
+    "share": 0.0061
+  },
+  {
+    "country": "GRC",
+    "sentiment": "sad",
+    "share": 0.6923
+  },
+  {
+    "country": "GRC",
+    "sentiment": "neutral",
+    "share": 0.2308
+  },
+  {
+    "country": "GRC",
+    "sentiment": "happy",
+    "share": 0.0385
+  },
+  {
+    "country": "GRC",
+    "sentiment": "hate",
+    "share": 0.0385
+  },
+  {
+    "country": "HKG",
+    "sentiment": "sad",
+    "share": 0.625
+  },
+  {
+    "country": "HKG",
+    "sentiment": "neutral",
+    "share": 0.175
+  },
+  {
+    "country": "HKG",
+    "sentiment": "happy",
+    "share": 0.1
+  },
+  {
+    "country": "HKG",
+    "sentiment": "hate",
+    "share": 0.075
+  },
+  {
+    "country": "HKG",
+    "sentiment": "anger",
+    "share": 0.025
+  },
+  {
+    "country": "IDN",
+    "sentiment": "sad",
+    "share": 0.5208
+  },
+  {
+    "country": "IDN",
+    "sentiment": "neutral",
+    "share": 0.3125
+  },
+  {
+    "country": "IDN",
+    "sentiment": "happy",
+    "share": 0.1146
+  },
+  {
+    "country": "IDN",
+    "sentiment": "hate",
+    "share": 0.0521
+  },
+  {
+    "country": "IND",
+    "sentiment": "sad",
+    "share": 0.6255
+  },
+  {
+    "country": "IND",
+    "sentiment": "neutral",
+    "share": 0.2163
+  },
+  {
+    "country": "IND",
+    "sentiment": "happy",
+    "share": 0.0802
+  },
+  {
+    "country": "IND",
+    "sentiment": "hate",
+    "share": 0.0727
+  },
+  {
+    "country": "IND",
+    "sentiment": "anger",
+    "share": 0.0054
+  },
+  {
+    "country": "IRL",
+    "sentiment": "sad",
+    "share": 0.6074
+  },
+  {
+    "country": "IRL",
+    "sentiment": "neutral",
+    "share": 0.2227
+  },
+  {
+    "country": "IRL",
+    "sentiment": "happy",
+    "share": 0.1133
+  },
+  {
+    "country": "IRL",
+    "sentiment": "hate",
+    "share": 0.0527
+  },
+  {
+    "country": "IRL",
+    "sentiment": "anger",
+    "share": 0.0039
+  },
+  {
+    "country": "ISR",
+    "sentiment": "sad",
+    "share": 0.62
+  },
+  {
+    "country": "ISR",
+    "sentiment": "hate",
+    "share": 0.2
+  },
+  {
+    "country": "ISR",
+    "sentiment": "neutral",
+    "share": 0.14
+  },
+  {
+    "country": "ISR",
+    "sentiment": "anger",
+    "share": 0.02
+  },
+  {
+    "country": "ISR",
+    "sentiment": "happy",
+    "share": 0.02
+  },
+  {
+    "country": "ITA",
+    "sentiment": "sad",
+    "share": 0.5161
+  },
+  {
+    "country": "ITA",
+    "sentiment": "neutral",
+    "share": 0.2581
+  },
+  {
+    "country": "ITA",
+    "sentiment": "happy",
+    "share": 0.1935
+  },
+  {
+    "country": "ITA",
+    "sentiment": "hate",
+    "share": 0.0323
+  },
+  {
+    "country": "JAM",
+    "sentiment": "sad",
+    "share": 0.5753
+  },
+  {
+    "country": "JAM",
+    "sentiment": "neutral",
+    "share": 0.3425
+  },
+  {
+    "country": "JAM",
+    "sentiment": "happy",
+    "share": 0.0548
+  },
+  {
+    "country": "JAM",
+    "sentiment": "hate",
+    "share": 0.0274
+  },
+  {
+    "country": "JPN",
+    "sentiment": "sad",
+    "share": 0.5479
+  },
+  {
+    "country": "JPN",
+    "sentiment": "neutral",
+    "share": 0.2055
+  },
+  {
+    "country": "JPN",
+    "sentiment": "hate",
+    "share": 0.1507
+  },
+  {
+    "country": "JPN",
+    "sentiment": "happy",
+    "share": 0.0959
+  },
+  {
+    "country": "KEN",
+    "sentiment": "sad",
+    "share": 0.668
+  },
+  {
+    "country": "KEN",
+    "sentiment": "neutral",
+    "share": 0.204
+  },
+  {
+    "country": "KEN",
+    "sentiment": "happy",
+    "share": 0.064
+  },
+  {
+    "country": "KEN",
+    "sentiment": "hate",
+    "share": 0.064
+  },
+  {
+    "country": "LKA",
+    "sentiment": "sad",
+    "share": 0.5636
+  },
+  {
+    "country": "LKA",
+    "sentiment": "neutral",
+    "share": 0.3091
+  },
+  {
+    "country": "LKA",
+    "sentiment": "hate",
+    "share": 0.0727
+  },
+  {
+    "country": "LKA",
+    "sentiment": "happy",
+    "share": 0.0545
+  },
+  {
+    "country": "MEX",
+    "sentiment": "sad",
+    "share": 0.6111
+  },
+  {
+    "country": "MEX",
+    "sentiment": "neutral",
+    "share": 0.2778
+  },
+  {
+    "country": "MEX",
+    "sentiment": "hate",
+    "share": 0.0694
+  },
+  {
+    "country": "MEX",
+    "sentiment": "happy",
+    "share": 0.0417
+  },
+  {
+    "country": "MYS",
+    "sentiment": "sad",
+    "share": 0.4949
+  },
+  {
+    "country": "MYS",
+    "sentiment": "neutral",
+    "share": 0.352
+  },
+  {
+    "country": "MYS",
+    "sentiment": "happy",
+    "share": 0.0969
+  },
+  {
+    "country": "MYS",
+    "sentiment": "hate",
+    "share": 0.0561
+  },
+  {
+    "country": "NGA",
+    "sentiment": "sad",
+    "share": 0.5634
+  },
+  {
+    "country": "NGA",
+    "sentiment": "neutral",
+    "share": 0.2817
+  },
+  {
+    "country": "NGA",
+    "sentiment": "happy",
+    "share": 0.0927
+  },
+  {
+    "country": "NGA",
+    "sentiment": "hate",
+    "share": 0.0585
+  },
+  {
+    "country": "NGA",
+    "sentiment": "anger",
+    "share": 0.0037
+  },
+  {
+    "country": "NLD",
+    "sentiment": "sad",
+    "share": 0.4752
+  },
+  {
+    "country": "NLD",
+    "sentiment": "neutral",
+    "share": 0.2673
+  },
+  {
+    "country": "NLD",
+    "sentiment": "happy",
+    "share": 0.1386
+  },
+  {
+    "country": "NLD",
+    "sentiment": "hate",
+    "share": 0.1089
+  },
+  {
+    "country": "NLD",
+    "sentiment": "anger",
+    "share": 0.0099
+  },
+  {
+    "country": "NOR",
+    "sentiment": "sad",
+    "share": 0.6786
+  },
+  {
+    "country": "NOR",
+    "sentiment": "neutral",
+    "share": 0.1786
+  },
+  {
+    "country": "NOR",
+    "sentiment": "happy",
+    "share": 0.1429
+  },
+  {
+    "country": "NPL",
+    "sentiment": "sad",
+    "share": 0.5278
+  },
+  {
+    "country": "NPL",
+    "sentiment": "neutral",
+    "share": 0.25
+  },
+  {
+    "country": "NPL",
+    "sentiment": "happy",
+    "share": 0.2222
+  },
+  {
+    "country": "NZL",
+    "sentiment": "sad",
+    "share": 0.6639
+  },
+  {
+    "country": "NZL",
+    "sentiment": "happy",
+    "share": 0.1557
+  },
+  {
+    "country": "NZL",
+    "sentiment": "neutral",
+    "share": 0.1148
+  },
+  {
+    "country": "NZL",
+    "sentiment": "hate",
+    "share": 0.0574
+  },
+  {
+    "country": "NZL",
+    "sentiment": "anger",
+    "share": 0.0082
+  },
+  {
+    "country": "PAK",
+    "sentiment": "sad",
+    "share": 0.6085
+  },
+  {
+    "country": "PAK",
+    "sentiment": "neutral",
+    "share": 0.184
+  },
+  {
+    "country": "PAK",
+    "sentiment": "hate",
+    "share": 0.1321
+  },
+  {
+    "country": "PAK",
+    "sentiment": "happy",
+    "share": 0.066
+  },
+  {
+    "country": "PAK",
+    "sentiment": "anger",
+    "share": 0.0094
+  },
+  {
+    "country": "PHL",
+    "sentiment": "sad",
+    "share": 0.5803
+  },
+  {
+    "country": "PHL",
+    "sentiment": "neutral",
+    "share": 0.281
+  },
+  {
+    "country": "PHL",
+    "sentiment": "happy",
+    "share": 0.0839
+  },
+  {
+    "country": "PHL",
+    "sentiment": "hate",
+    "share": 0.0547
+  },
+  {
+    "country": "POL",
+    "sentiment": "sad",
+    "share": 0.6176
+  },
+  {
+    "country": "POL",
+    "sentiment": "neutral",
+    "share": 0.1765
+  },
+  {
+    "country": "POL",
+    "sentiment": "happy",
+    "share": 0.1471
+  },
+  {
+    "country": "POL",
+    "sentiment": "hate",
+    "share": 0.0588
+  },
+  {
+    "country": "PRI",
+    "sentiment": "sad",
+    "share": 1.0
+  },
+  {
+    "country": "SAU",
+    "sentiment": "sad",
+    "share": 0.6875
+  },
+  {
+    "country": "SAU",
+    "sentiment": "neutral",
+    "share": 0.1458
+  },
+  {
+    "country": "SAU",
+    "sentiment": "happy",
+    "share": 0.1042
+  },
+  {
+    "country": "SAU",
+    "sentiment": "hate",
+    "share": 0.0625
+  },
+  {
+    "country": "SGP",
+    "sentiment": "sad",
+    "share": 0.5789
+  },
+  {
+    "country": "SGP",
+    "sentiment": "neutral",
+    "share": 0.2281
+  },
+  {
+    "country": "SGP",
+    "sentiment": "happy",
+    "share": 0.1053
+  },
+  {
+    "country": "SGP",
+    "sentiment": "hate",
+    "share": 0.0877
+  },
+  {
+    "country": "SWE",
+    "sentiment": "sad",
+    "share": 0.7143
+  },
+  {
+    "country": "SWE",
+    "sentiment": "neutral",
+    "share": 0.1714
+  },
+  {
+    "country": "SWE",
+    "sentiment": "happy",
+    "share": 0.0571
+  },
+  {
+    "country": "SWE",
+    "sentiment": "hate",
+    "share": 0.0571
+  },
+  {
+    "country": "THA",
+    "sentiment": "sad",
+    "share": 0.6765
+  },
+  {
+    "country": "THA",
+    "sentiment": "neutral",
+    "share": 0.2059
+  },
+  {
+    "country": "THA",
+    "sentiment": "happy",
+    "share": 0.0882
+  },
+  {
+    "country": "THA",
+    "sentiment": "hate",
+    "share": 0.0294
+  },
+  {
+    "country": "TUR",
+    "sentiment": "sad",
+    "share": 0.6316
+  },
+  {
+    "country": "TUR",
+    "sentiment": "neutral",
+    "share": 0.2632
+  },
+  {
+    "country": "TUR",
+    "sentiment": "happy",
+    "share": 0.1053
+  },
+  {
+    "country": "TWN",
+    "sentiment": "sad",
+    "share": 0.5143
+  },
+  {
+    "country": "TWN",
+    "sentiment": "neutral",
+    "share": 0.2
+  },
+  {
+    "country": "TWN",
+    "sentiment": "hate",
+    "share": 0.1429
+  },
+  {
+    "country": "TWN",
+    "sentiment": "happy",
+    "share": 0.1143
+  },
+  {
+    "country": "TWN",
+    "sentiment": "anger",
+    "share": 0.0286
+  },
+  {
+    "country": "UGA",
+    "sentiment": "sad",
+    "share": 0.625
+  },
+  {
+    "country": "UGA",
+    "sentiment": "neutral",
+    "share": 0.2024
+  },
+  {
+    "country": "UGA",
+    "sentiment": "happy",
+    "share": 0.125
+  },
+  {
+    "country": "UGA",
+    "sentiment": "hate",
+    "share": 0.0417
+  },
+  {
+    "country": "UGA",
+    "sentiment": "anger",
+    "share": 0.006
+  },
+  {
+    "country": "USA",
+    "sentiment": "sad",
+    "share": 0.6377
+  },
+  {
+    "country": "USA",
+    "sentiment": "neutral",
+    "share": 0.1917
+  },
+  {
+    "country": "USA",
+    "sentiment": "happy",
+    "share": 0.084
+  },
+  {
+    "country": "USA",
+    "sentiment": "hate",
+    "share": 0.0828
+  },
+  {
+    "country": "USA",
+    "sentiment": "anger",
+    "share": 0.0038
+  },
+  {
+    "country": "ZAF",
+    "sentiment": "sad",
+    "share": 0.5887
+  },
+  {
+    "country": "ZAF",
+    "sentiment": "neutral",
+    "share": 0.2621
+  },
+  {
+    "country": "ZAF",
+    "sentiment": "happy",
+    "share": 0.0806
+  },
+  {
+    "country": "ZAF",
+    "sentiment": "hate",
+    "share": 0.0605
+  },
+  {
+    "country": "ZAF",
+    "sentiment": "anger",
+    "share": 0.0081
+  },
+  {
+    "country": "ZMB",
+    "sentiment": "sad",
+    "share": 0.8
+  },
+  {
+    "country": "ZMB",
+    "sentiment": "happy",
+    "share": 0.08
+  },
+  {
+    "country": "ZMB",
+    "sentiment": "hate",
+    "share": 0.08
+  },
+  {
+    "country": "ZMB",
+    "sentiment": "neutral",
+    "share": 0.04
+  },
+  {
+    "country": "ZWE",
+    "sentiment": "sad",
+    "share": 0.6216
+  },
+  {
+    "country": "ZWE",
+    "sentiment": "neutral",
+    "share": 0.1892
+  },
+  {
+    "country": "ZWE",
+    "sentiment": "happy",
+    "share": 0.1081
+  },
+  {
+    "country": "ZWE",
+    "sentiment": "hate",
+    "share": 0.0811
+  }
+]

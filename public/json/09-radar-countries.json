@@ -1,0 +1,89 @@
+[
+  {
+    "sad": 0.7078,
+    "neutral": 0.1483,
+    "hate": 0.093,
+    "happy": 0.046,
+    "anger": 0.0049,
+    "word": "United States"
+  },
+  {
+    "sad": 0.709,
+    "neutral": 0.1629,
+    "hate": 0.079,
+    "happy": 0.044,
+    "anger": 0.0052,
+    "word": "United Kingdom"
+  },
+  {
+    "sad": 0.6249,
+    "neutral": 0.179,
+    "hate": 0.1186,
+    "happy": 0.0744,
+    "anger": 0.003,
+    "word": "Germany"
+  },
+  {
+    "sad": 0.6732,
+    "neutral": 0.1446,
+    "hate": 0.1011,
+    "happy": 0.0768,
+    "anger": 0.0044,
+    "word": "France"
+  },
+  {
+    "sad": 0.5773,
+    "hate": 0.2138,
+    "neutral": 0.1721,
+    "happy": 0.0312,
+    "anger": 0.0056,
+    "word": "China"
+  },
+  {
+    "sad": 0.5684,
+    "neutral": 0.2684,
+    "happy": 0.0842,
+    "hate": 0.0789,
+    "word": "Estonia"
+  },
+  {
+    "sad": 0.6,
+    "hate": 0.2386,
+    "neutral": 0.1092,
+    "happy": 0.0447,
+    "anger": 0.0075,
+    "word": "Russia"
+  },
+  {
+    "sad": 0.6613,
+    "neutral": 0.1644,
+    "happy": 0.0996,
+    "hate": 0.0718,
+    "anger": 0.0029,
+    "word": "Spain"
+  },
+  {
+    "sad": 0.624,
+    "neutral": 0.1514,
+    "happy": 0.1501,
+    "hate": 0.072,
+    "anger": 0.0025,
+    "word": "Italy"
+  },
+  {
+    "sad": 0.6441,
+    "neutral": 0.2076,
+    "hate": 0.0956,
+    "happy": 0.0459,
+    "anger": 0.0068,
+    "word": "India"
+  },
+  {
+    "sad": 0.6889,
+    "neutral": 0.1647,
+    "happy": 0.0775,
+    "hate": 0.0662,
+    "anger": 0.0027,
+    "word": "Sweden"
+  }
+]

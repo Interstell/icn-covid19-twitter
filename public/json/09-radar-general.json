@@ -1,0 +1,82 @@
+[
+  {
+    "sad": 0.7021,
+    "neutral": 0.1663,
+    "hate": 0.076,
+    "happy": 0.0514,
+    "anger": 0.0042,
+    "word": "coronavirus"
+  },
+  {
+    "sad": 0.723,
+    "neutral": 0.1412,
+    "hate": 0.0942,
+    "happy": 0.0372,
+    "anger": 0.0044,
+    "word": "news"
+  },
+  {
+    "sad": 0.7345,
+    "neutral": 0.1541,
+    "happy": 0.0691,
+    "hate": 0.039,
+    "anger": 0.0033,
+    "word": "isolation"
+  },
+  {
+    "sad": 0.7588,
+    "neutral": 0.098,
+    "hate": 0.0952,
+    "happy": 0.042,
+    "anger": 0.006,
+    "word": "lockdown"
+  },
+  {
+    "sad": 0.8137,
+    "neutral": 0.0911,
+    "hate": 0.0539,
+    "happy": 0.0369,
+    "anger": 0.0044,
+    "word": "health"
+  },
+  {
+    "sad": 0.7057,
+    "hate": 0.1304,
+    "neutral": 0.1016,
+    "happy": 0.0576,
+    "anger": 0.0048,
+    "word": "mask"
+  },
+  {
+    "sad": 0.823,
+    "neutral": 0.0913,
+    "hate": 0.0536,
+    "happy": 0.0305,
+    "anger": 0.0016,
+    "word": "vaccine"
+  },
+  {
+    "sad": 0.7342,
+    "neutral": 0.1538,
+    "happy": 0.0646,
+    "hate": 0.0435,
+    "anger": 0.0039,
+    "word": "home"
+  },
+  {
+    "sad": 0.7248,
+    "hate": 0.1738,
+    "neutral": 0.0759,
+    "happy": 0.0147,
+    "anger": 0.0108,
+    "word": "government"
+  },
+  {
+    "sad": 0.7465,
+    "neutral": 0.108,
+    "hate": 0.0769,
+    "happy": 0.0596,
+    "anger": 0.0089,
+    "word": "work"
+  }
+]
